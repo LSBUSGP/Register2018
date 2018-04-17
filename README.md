@@ -2,4 +2,4 @@
 
 This is a register of programmers in the specialism group:
 
-Dan Ryan
+* Dan Ryan
