@@ -8,3 +8,4 @@ This is a register of programmers in the specialism group:
 * Nicholas Langley
 * Qian Chen
 * Tim James
+* Amy Manchester
