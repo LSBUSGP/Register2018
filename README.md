@@ -9,3 +9,4 @@ This is a register of programmers in the specialism group:
 * Qian Chen
 * Tim James
 * Amy Manchester
+* Marlon Louie Manansala
